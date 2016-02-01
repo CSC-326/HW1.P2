@@ -34,7 +34,7 @@ http://checkbox.io/studies.html
 * The participant count of "Frustration of Software Developers" is 55
 * The total number of studies closed is 5.
 * If a status of a study is open, you can click on a "Participate" button.
-* You can enter text into this study (don't have to submit): http://checkbox.io/studies/?id=569e667f12101f8a12000001
+* You can enter text into this study (don't *actually* submit, or you can't run test again!): http://checkbox.io/studies/?id=569e667f12101f8a12000001
 
 You'll have to adjust the driver used in order to properly render javascript:
 
