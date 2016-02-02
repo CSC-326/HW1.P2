@@ -99,4 +99,4 @@ sql_mode = ""
 	* a screen shot of your passing iTrust test cases.
 5. On moodle, submit the link to this repo.
 
-DUE: Wednesday, Feb 3rd, midnight
+DUE: Friday, Feb 5th, midnight
